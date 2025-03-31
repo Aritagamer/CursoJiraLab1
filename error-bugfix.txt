@@ -1,0 +1,1 @@
+Error del formulario de registro corregido, mensaje de error con contraseñas mas cotas de 6 caracteres
